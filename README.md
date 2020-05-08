@@ -1,0 +1,2 @@
+# Minio
+Mino Object Storage
